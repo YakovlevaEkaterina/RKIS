@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vicev\\OneDrive\\Desktop\\wpf_February\\Averina\\Averina\\Averina.csproj": {}
+    "C:\\Users\\vicev\\OneDrive\\Desktop\\dev\\wpf_February\\Averina\\Averina\\Averina.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vicev\\OneDrive\\Desktop\\wpf_February\\Averina\\Averina\\Averina.csproj": {
+    "C:\\Users\\vicev\\OneDrive\\Desktop\\dev\\wpf_February\\Averina\\Averina\\Averina.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vicev\\OneDrive\\Desktop\\wpf_February\\Averina\\Averina\\Averina.csproj",
+        "projectUniqueName": "C:\\Users\\vicev\\OneDrive\\Desktop\\dev\\wpf_February\\Averina\\Averina\\Averina.csproj",
         "projectName": "Averina",
-        "projectPath": "C:\\Users\\vicev\\OneDrive\\Desktop\\wpf_February\\Averina\\Averina\\Averina.csproj",
+        "projectPath": "C:\\Users\\vicev\\OneDrive\\Desktop\\dev\\wpf_February\\Averina\\Averina\\Averina.csproj",
         "packagesPath": "C:\\Users\\vicev\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vicev\\OneDrive\\Desktop\\wpf_February\\Averina\\Averina\\obj\\",
+        "outputPath": "C:\\Users\\vicev\\OneDrive\\Desktop\\dev\\wpf_February\\Averina\\Averina\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vicev\\AppData\\Roaming\\NuGet\\NuGet.Config",

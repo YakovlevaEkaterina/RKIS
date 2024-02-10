@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PdUTbJanDeKtXiPJJnbuDem/gIHp8qvtYi+wD2rRMYWdomWA5M0r6AbJakpxoNn0qaYCBlPJzj0QUq3LwXYGYg==",
+  "dgSpecHash": "SlPs3UyxJYazvBM6MsXZ2TghWRTjELAVZpo21/BGKwtBz6mZrRSMEeHfEwMjQG2OfMoxbhh/BXA4ZS/wLhbvQg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\vicev\\OneDrive\\Desktop\\wpf_February\\Averina\\Averina\\Averina.csproj",
+  "projectFilePath": "C:\\Users\\vicev\\OneDrive\\Desktop\\dev\\wpf_February\\Averina\\Averina\\Averina.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vicev\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\vicev\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
