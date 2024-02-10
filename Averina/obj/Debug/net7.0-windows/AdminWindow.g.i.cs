@@ -53,7 +53,7 @@ namespace Averina {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/Averina;component/adminwindow.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/Averina;V1.0.0.0;component/adminwindow.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\AdminWindow.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

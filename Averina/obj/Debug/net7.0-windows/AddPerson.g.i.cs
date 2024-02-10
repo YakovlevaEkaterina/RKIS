@@ -85,7 +85,7 @@ namespace Averina {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/Averina;component/addperson.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/Averina;V1.0.0.0;component/addperson.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\AddPerson.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

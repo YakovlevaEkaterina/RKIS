@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Averina")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2a5357556da89f82f23cf6ee1986fb224b5ed5b3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+74b199023464ffebe621bb5c31c5d5a4524b1d91")]
 [assembly: System.Reflection.AssemblyProductAttribute("Averina")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Averina")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
